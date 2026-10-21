@@ -1,0 +1,7 @@
+# PostgreSQL data directory
+db/
+
+# Docker Compose/local Docker configuration
+docker-compose.yml
+docker-compose.override.yml
+.docker/
